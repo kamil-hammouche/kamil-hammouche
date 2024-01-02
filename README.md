@@ -7,7 +7,7 @@ Passionate about tech, I spend my free time learning and doing Indie Hacking.
 ## 🚀 Quick Overview
 
 - 🔭 I'm currently working at [Seira LDX](https://seira-formation.fr) as Full-Stack Developer.
-- ⚡ Fun fact: I've been using every means to explore the JavaScript ecosystem, whether it's front-end or back-end. I'm experienced in Vanilla JavaScript, ReactJS, NextJS, Angular, VueJS, NuxtJS, ExpressJS, KoaJS, NestJS, and many more! So...
+- ⚡ Fun fact: I've been using every means to explore the JavaScript ecosystem, whether it's front-end, back-end or mobile. I'm experienced in Vanilla JavaScript, ReactJS, NextJS, React Native, Angular, VueJS, NuxtJS, Ionic, NodeJS, ExpressJS, KoaJS, NestJS, and many more! So...
 - 💬 Ask me about anything, I'll be happy to help you.
 - 📫 How to reach me: [hey@kamil.com](mailto:hey@kamil.com).
 
